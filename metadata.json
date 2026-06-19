@@ -1,0 +1,8 @@
+{
+  "name": "Rainbow Unicorn Exim Services",
+  "description": "B2B export company website for natural food powders and dehydrated ingredients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
